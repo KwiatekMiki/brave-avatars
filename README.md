@@ -1,6 +1,9 @@
 # brave-avatars
 Here you can find and download every avatar you can use in Brave.
 ## How to download?
+### Method 1.
+Click [here](https://github.com/KwiatekMiki/brave-avatars/releases/download/v1/avatars.zip) to download ZIP.
+### Method 2.
 ![1. Click "Code"; 2. Click "Download ZIP"](https://user-images.githubusercontent.com/79092746/221259682-f25e07e9-c4bf-4aa1-8cf0-ea267a818a81.png)
 (easy?)
 ### List of files
