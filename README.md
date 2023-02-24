@@ -1,6 +1,9 @@
 # brave-avatars
 Here you can find and download every avatar you can use in Brave.
-## List of files
+## How to download?
+![1. Click "Code"; 2. Click "Download ZIP"](https://user-images.githubusercontent.com/79092746/221259682-f25e07e9-c4bf-4aa1-8cf0-ea267a818a81.png)
+(easy?)
+### List of files
 - avatar_edgy_brave.png
 - avatar_edgy_ocean.png
 - avatar_edgy_grass.png
